@@ -69,7 +69,7 @@ networkx==2.8.4
     #   torch
 numba==0.55.2
     # via face-alignment
-numpy==1.22.0
+numpy==1.26.4
     # via
     #   dot (setup.cfg)
     #   face-alignment
@@ -101,7 +101,7 @@ packaging==21.3
     #   matplotlib
     #   pytest
     #   scikit-image
-pillow==10.0.1
+pillow==10.3.0
     # via
     #   dot (setup.cfg)
     #   imageio
@@ -110,7 +110,7 @@ pillow==10.0.1
     #   torchvision
 pluggy==1.2.0
     # via pytest
-protobuf==3.20.2
+protobuf==5.26.1
     # via
     #   dot (setup.cfg)
     #   mediapipe
@@ -137,7 +137,7 @@ scikit-image==0.19.1
     # via
     #   dot (setup.cfg)
     #   face-alignment
-scipy==1.10.0
+scipy==1.13.0
     # via
     #   dot (setup.cfg)
     #   face-alignment
